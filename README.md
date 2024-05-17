@@ -1,4 +1,4 @@
-#Here lies some config
+##Here lies some config
 
 
 mkdir -p ~/.config/nvim
